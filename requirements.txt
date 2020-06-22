@@ -1,0 +1,10 @@
+catboost
+hyperopt
+ipywidgets
+shap
+scikit-learn
+matplotlib
+numpy
+pandas
+seaborn
+xlrd
